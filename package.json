@@ -1,6 +1,6 @@
 {
   "name": "istanbul-espree",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale",
   "keywords": [
     "coverage",
@@ -104,7 +104,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/gotwarlost/istanbul.git"
+    "url": "git://github.com/ginden/istanbul-espree.git"
   },
   "dependencies": {
     "abbrev": "1.0.x",
