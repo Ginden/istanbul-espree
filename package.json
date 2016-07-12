@@ -1,5 +1,5 @@
 {
-  "name": "istanbul",
+  "name": "istanbul-espree",
   "version": "0.4.4",
   "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale",
   "keywords": [
@@ -110,6 +110,7 @@
     "abbrev": "1.0.x",
     "async": "1.x",
     "escodegen": "1.8.x",
+    "espree": "^3.1.6",
     "esprima": "2.7.x",
     "fileset": "0.2.x",
     "handlebars": "^4.0.1",
